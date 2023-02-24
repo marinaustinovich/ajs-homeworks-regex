@@ -1,7 +1,7 @@
 {
-  "name": "ajs-homeworks-oop",
+  "name": "ajs-homeworks-regex",
   "version": "1.0.0",
-  "description": "about classes and inheritance",
+  "description": "about regex",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve --mode development",
@@ -16,17 +16,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marinaustinovich/ajs-homeworks-object_reflection_proxy.git"
+    "url": "git+https://github.com/marinaustinovich/ajs-homeworks-regex.git"
   },
   "keywords": [
-    "object_reflection_proxy"
+    "regex"
   ],
   "author": "Marina",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marinaustinovich/ajs-homeworks-object_reflection_proxy/issues"
+    "url": "https://github.com/marinaustinovich/ajs-homeworks-regex/issues"
   },
-  "homepage": "https://github.com/marinaustinovich/ajs-homeworks-object_reflection_proxy#readme",
+  "homepage": "https://github.com/marinaustinovich/ajs-homeworks-regex#readme",
   "devDependencies": {
     "@babel/cli": "^7.20.7",
     "@babel/core": "^7.20.12",
