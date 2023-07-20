@@ -5,6 +5,5 @@ export default function transferPhoneNumberToTemplate(phone) {
   }
 
   const phoneTemplate = `+${strPhone.replace(/\D/g, '')}`;
-
   return phoneTemplate;
 }
